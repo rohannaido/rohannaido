@@ -1,10 +1,10 @@
 <h2> Hi 👋, I’m Rohan.</h2>
 
 <ul>
-  <li>👀 <a href="https://rohannaidu.netlify.app/" target="_blank" rel="noopener noreferrer">Check out my portfolio here!</a></li>
+  <li>👀 <a href="https://rohannaidu.netlify.app/" target="_blank" rel="noopener noreferrer">Check out my portfolio website here!</a></li>
   <li>🧑 I'm an aspiring Web Developer</li>
   <li>💻 I’m focused on building my career in Web Development/Software Engineering</li>
-  <li>🔭 I'm currently working on The Odin Project's Full Stack JavaScript development curriculum</li>
+  <li>🔭 I'm currently working on The Odin Project's Full Stack JavaScript development curriculum and building ReactJS projects</li>
   <li>📫 Reach me at rohannaiduu@gmail.com</li>
 </ul>
 
