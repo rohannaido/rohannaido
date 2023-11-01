@@ -3,7 +3,7 @@
 <ul>
   <li>👀 <a href="https://rohannaidu.netlify.app/" target="_blank" rel="noopener noreferrer">Check out my portfolio website here!</a></li>
   <li>🧑 I'm a Full Stack Web Developer</li>
-  <li>💻 I’m am building my career in Web Development/Software Engineering</li>
+  <li>💻 I’m building my career in Web Development/Software Engineering</li>
   <li>🔭 I'm currently learning NextJS</li>
   <li>📫 Reach me at rohannaiduu@gmail.com</li>
 </ul>
